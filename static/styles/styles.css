@@ -1,0 +1,20 @@
+body {
+    background-color: #131313;
+    color: #ebebeb;
+}
+
+h1 {
+    background-color: #242424;
+    color: #ebebeb;
+}
+
+nav {
+    background-color: #242424;
+    color: #ebebeb;
+    
+}
+
+nav, nav .nav-wrapper i, nav a.sidenav-trigger, nav a.sidenav-trigger i {
+    height: 40px;
+    line-height: 35px;
+}
